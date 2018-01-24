@@ -1,0 +1,21 @@
+﻿<?xml version="1.0" encoding="utf-8" ?>
+<ContentPage xmlns="http://xamarin.com/schemas/2014/forms"
+             xmlns:x="http://schemas.microsoft.com/winfx/2009/xaml"
+             xmlns:local="clr-namespace:XF_SampleApp"
+             x:Class="XF_SampleApp.MainPage">
+
+    <StackLayout Orientation="Vertical" VerticalOptions="Center">
+        <Image x:Name="logo" Aspect="AspectFit"/>
+        <Label Text="Welcome to Xamarin Forms! " 
+           VerticalOptions="Center" 
+           HorizontalOptions="FillAndExpand" 
+           HorizontalTextAlignment="Center"
+               FontSize="Large"
+           x:Name="Label1"/>
+
+        <Button x:Name="Button1" Text="ボタン" FontSize="Large" Margin="10"/>
+
+        <ProgressBar x:Name="ProgressBar1" />
+    </StackLayout>
+
+</ContentPage>
