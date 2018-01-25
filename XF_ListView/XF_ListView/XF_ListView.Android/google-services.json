@@ -1,0 +1,42 @@
+{
+  "project_info": {
+    "project_number": "1018554191945",
+    "firebase_url": "https://selecteditem-793cb.firebaseio.com",
+    "project_id": "selecteditem-793cb",
+    "storage_bucket": "selecteditem-793cb.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:1018554191945:android:5926b93c2708d900",
+        "android_client_info": {
+          "package_name": "com.grapecity.XF_ListView"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "1018554191945-3mh7ad13sr3a2egfg8lf4ggv5edvfcv4.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyAMnDTasoOYIM4ABOZwhhZRw0l8YbPFucQ"
+        }
+      ],
+      "services": {
+        "analytics_service": {
+          "status": 1
+        },
+        "appinvite_service": {
+          "status": 1,
+          "other_platform_oauth_client": []
+        },
+        "ads_service": {
+          "status": 2
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
