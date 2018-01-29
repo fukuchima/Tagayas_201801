@@ -24,9 +24,9 @@ namespace XF_ListView
 		{
 			// Appcenter Analyticsの初期設定 
 			AppCenter.Start(
-				"android=8f10cbda-7059-43c9-8fb4-91ead2b0bc43;" + 
-				"uwp=39d0e04f-3dc6-4ec1-9bea-848b2e6f50f9;" +
-				"ios=b8eaf9d0-ba1c-429c-a99f-fbcc2e31f9dd",
+				"android=Android用の自分のキー" +
+                "uwp=UWP用の自分のキー" +
+                "ios=iOS用の自分のキー",
 				typeof(Analytics), typeof(Crashes));
 
 		}
